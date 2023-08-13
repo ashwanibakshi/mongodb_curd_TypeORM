@@ -1,7 +1,11 @@
-# Awesome Project Build with TypeORM
+# mongodb_curd_TypeORM
+This is a simple project in which we preform simple curd operations using the TypeORM.
 
-Steps to run this project:
+You can go through these link to understand how to use mongodb with typeorm https://orkhan.gitbook.io/typeorm/docs/mongodb ,
+https://www.tutorialspoint.com/typeorm/typeorm_working_with_mongodb.htm
 
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+#### Install Packages
+--npm install
+
+#### Start Application
+--npm start
